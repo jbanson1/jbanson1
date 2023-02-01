@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jdotbans@gmail.com
 
+![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
+
 # Number page visits
 ![Visitor Count](https://profile-counter.glitch.me/jbanson1/count.svg)
 
