@@ -5,7 +5,7 @@
 - 📫 How to reach me jdotbans@gmail.com
 
 # Number page visits
-![Visitor Count](https://profile-counter.glitch.me/TheGloriousGenesis/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jbanson1/count.svg)
 
 <!---
 jbanson1/jbanson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
