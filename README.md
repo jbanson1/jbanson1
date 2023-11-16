@@ -1,7 +1,7 @@
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I’m Joe Banson
 - 👀 I’m interested in C# & Typescript
-- 🌱 I’m currently learning Cloud Computing and all things fun
+- 🌱 I’m currently learning Cloud Computing and all things fun (oop add elastic search to it)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jdotbans@gmail.com
 
