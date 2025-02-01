@@ -2,7 +2,7 @@
 I’m Joe Banson
 - 🌱 I’m intrigued in all things fun (Looking deeper into solarWinds & AI)
 - 💞️ Would usually say I’m looking to collaborate on anything but diary is full
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jbanson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbanson1/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jbanson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-banson/)
 
 ![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
 
